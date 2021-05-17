@@ -1,5 +1,6 @@
 # BrunoCezarGuimaraes.github.io
 Novo portfolio pessoal
+<br>Link pro portfólio: https://brunocezarguimaraes.github.io/ <br>
 
 Baseado nos portfolios da Bebimcode, respectivamente do Clay Doe e Alexia os links para os videos do youtube são esses:<br>
 Clay Doe: https://www.youtube.com/watch?v=BS6blX035NM <br>
