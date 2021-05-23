@@ -357,7 +357,7 @@ img{
 .button-link{
   background: none;
   color: var(--first-color);
-  padding: 0;
+  padding: var(--mb-0-25);
 }
 
 .button-link:hover{
