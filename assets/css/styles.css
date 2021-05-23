@@ -84,6 +84,10 @@ h2,h3{
   font-weight: var(--font-semi-bold);
 }
 
+p{
+  color:var(--first-color-dark);
+}
+
 ul{
   padding: 0;
   list-style: none;
